@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+}
+
+.container > img {
+  margin-right: 20px;
+}
+
+.genres {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.genres > li {
+  margin-right: 12px;
+}
